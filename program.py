@@ -1,3 +1,4 @@
 print('Hello git')
-print('Some info')
+print('Some games')
+
 print('Info about projects')
